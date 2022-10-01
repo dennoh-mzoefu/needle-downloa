@@ -1,0 +1,15 @@
+{
+  "name": "needle-download",
+  "version": "1.0.0",
+  "description": "download files using needle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "denis gichana",
+  "license": "ISC",
+  "dependencies": {
+    "needle": "^3.1.0"
+  }
+}
